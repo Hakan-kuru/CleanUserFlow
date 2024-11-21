@@ -30,4 +30,4 @@ Aşağıda, `User` verisinin kaynaktan UI’a ulaşana kadar geçtiği aşamalar
    - **UI (Jetpack Compose)**: `UserProfileScreen` adlı **Composable** ekran, `UserViewModel`'deki `userProfile` StateFlow’undan veriyi gözlemler ve kullanıcı bilgilerini ekrana yansıtır.
 
 İsterseniz bu konudaki [medium yazımı](https://medium.com/@hsdfiratuniversity/modern-android-geliştirmede-clean-architectureın-önemi-5823923f4e69) da inceleyebilirsiniz:
-
+[medium Writing](https://medium.com/@Hakan-Kuru/importantance-of-clean-architecture-in-modern-android-development-7c6a539f4cf7)
